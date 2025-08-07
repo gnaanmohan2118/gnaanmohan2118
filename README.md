@@ -66,8 +66,10 @@ I love designing scalable microservices, automating infrastructure, and making s
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gnaanmohan2118&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnaanmohan2118&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gnaanmohan2118&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnaanmohan2118&layout=compact&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnaanmohan2118&theme=tokyonight" />
 </p>
 
 ---
