@@ -8,7 +8,7 @@
   <a href="https://github.com/gnaamohan2118"><img src="https://img.shields.io/github/followers/gnaamohan2118?label=Follow&style=social"></a>
   <a href="https://in.linkedin.com/in/gnana-ganesh-m"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white"></a>
   <a href="mailto:gnanaganeshgm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox-browser&logoColor=white"></a>
+  <a href="https://connectwithgmg.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox-browser&logoColor=white"></a>
 </p>
 
 ---
