@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gnana Ganesh 👋</h1>
 <p align="center">
-  <b>DevOps Engineer • Cloud Enthusiast • Python Backend Developer</b><br>
+  <b>DevOps/Cloud Engineer • Gen AI Enthusiast • Python Backend Developer</b><br>
   <i>Building scalable, secure, cloud-native systems with passion and purpose.</i>
 </p>
 
@@ -66,8 +66,8 @@ I love designing scalable microservices, automating infrastructure, and making s
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gnaamohan2118&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnaamohan2118&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gnaanmohan2118&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnaanmohan2118&layout=compact&theme=github_dark" />
 </p>
 
 ---
