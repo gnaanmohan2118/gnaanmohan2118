@@ -98,7 +98,7 @@ Bachelor of Technology in Computer Science (2019–2023)
 <a href="mailto:gnanaganeshgm@gmail.com">📧 Email</a> | 
 <a href="https://in.linkedin.com/in/gnana-ganesh-m">🔗 LinkedIn</a> | 
 <a href="https://github.com/gnaamohan2118">💻 GitHub</a> | 
-<a href="https://yourportfolio.com">🌐 Portfolio</a>
+<a href="https://connectwithgmg.netlify.app/">🌐 Portfolio</a>
 
 ---
 
