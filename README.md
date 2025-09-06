@@ -56,9 +56,10 @@ I love designing scalable microservices, automating infrastructure, and making s
 
 ## 🏆 Certifications
 
-- 🏅 **AWS Certified Solutions Architect – Associate**
+- 🏅 **AWS Certified Solutions Architect - Associate**
 - 🏗️ **HashiCorp Certified: Terraform Associate**
 - ⏳ **Certified Kubernetes Administrator (CKA)** – In Progress
+- 🏅 **AWS Certified DevOps professional**
 - 🎓 **CS50W – Web Programming with Python & JS (Harvard)**
 
 ---
