@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gnana Ganesh 👋</h1>
 <p align="center">
-  <b>DevOps/Cloud Engineer • Gen AI Enthusiast • Python Backend Developer</b><br>
+  <b>DevOps/Cloud Engineer • Python Backend Developer • Gen AI Enthusiast</b><br>
   <i>Building scalable, secure, cloud-native systems with passion and purpose.</i>
 </p>
 
