@@ -24,15 +24,7 @@ I love designing scalable microservices, automating infrastructure, and making s
 
 ---
 
- 🚀 Projects
 
-| Project | Description | Stack | 🔗 |
-|--------|-------------|-------|----|
-| 🧠 **[GenAI Real-Time Chat App](#)** | LLaMA-powered AI assistant over WebSockets with Redis pub/sub, CI/CD & Auth | FastAPI, Groq API, Docker, K8s | [Live](gurubaba-ai.onrender.com) |
-| ⏰ **[Distributed Job Scheduler](#)** | Cron-as-a-Service with retry queues, Prometheus, and fault tolerance | Python, Redis, Docker, Terraform | [Live](#) |
-| 🔗 **[Scalable URL Shortener](#)** | Base62 + TTL-based key shortening, Grafana metrics, CI/CD | Python, NGINX, PostgreSQL, AWS | [Live](#) |
-
----
 
 🛠️ Tools & Technologies
 
