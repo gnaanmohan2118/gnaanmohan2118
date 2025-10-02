@@ -18,9 +18,9 @@
 I'm a Software Engineer with 1.5+ years of experience working on **DevOps, Cloud, and Backend systems**.  
 I love designing scalable microservices, automating infrastructure, and making systems **secure, observable, and cloud-ready**.
 
-- 💻 Experienced in **AWS, Azure, Kubernetes, Docker, Terraform, FastAPI, CI/CD, and Redis**
-- 🚀 Reduced manual workflows by 40% and maintained >99.5% uptime across mission-critical systems
-- 🤖 Currently exploring **GenAI integrations** (LLaMA, GPT-3.5, LangChain) and building scalable real-time platforms
+-  Experienced in **AWS, Azure, Kubernetes, Docker, Terraform, FastAPI, CI/CD, and Redis**
+-  Reduced manual workflows by 40% and maintained >99.5% uptime across mission-critical systems
+-  Currently exploring **GenAI integrations** (LLaMA, GPT-3.5, LangChain) and building scalable real-time platforms
 
 ---
 
@@ -52,7 +52,6 @@ I love designing scalable microservices, automating infrastructure, and making s
 - 🏗️ **HashiCorp Certified: Terraform Associate**
 - ⏳ **Certified Kubernetes Administrator (CKA)** – In Progress
 - 🏅 **AWS Certified DevOps professional**
-- 🎓 **CS50W – Web Programming with Python & JS (Harvard)**
 
 ---
 
