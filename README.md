@@ -92,5 +92,5 @@ Bachelor of Technology in Computer Science (2019–2023)
 
 ---
 
-> 🧠 “The best systems are the ones you never notice — secure, scalable, and always available.”
+> 🧠 “The best systems are the ones you never notice secure, scalable, and always available.”
 
