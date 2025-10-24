@@ -14,7 +14,7 @@
 
  🧑‍💻 About Me
 
-I'm a Software Engineer with 1.5+ years of experience working on **DevOps, Cloud, and Backend systems**.  
+I'm a Software Engineer with 2 years of experience working on **DevOps, Cloud, and Backend systems**.  
 I love designing scalable microservices, automating infrastructure, and making systems **secure, observable, and cloud-ready**.
 
 -  Experienced in **AWS, Azure, Kubernetes, Docker, Terraform, FastAPI, CI/CD, and Redis**
