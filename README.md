@@ -48,6 +48,15 @@ I love designing scalable microservices, automating infrastructure, and making s
 <img src="https://img.shields.io/badge/RAG_LLM-FF5722?style=for-the-badge&logo=ai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-FC8C0A?style=for-the-badge&logo=openai&logoColor=white"/>
 
+
+<!-- AI / LLM -->
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/GPT-3.5-FF9900?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-2EC866?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-FF5722?style=for-the-badge&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-1A73E8?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Weaviate-00C0FF?style=for-the-badge&logo=weaviate&logoColor=white"/>
+
 <!-- Cloud & Infrastructure -->
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -73,10 +82,43 @@ I love designing scalable microservices, automating infrastructure, and making s
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
+
+<!-- Architecture / System Design -->
+<img src="https://img.shields.io/badge/DDD-FF6F00?style=for-the-badge&logo=architecture&logoColor=white"/>
+<img src="https://img.shields.io/badge/CAP_Theorem-6C63FF?style=for-the-badge&logo=architecture&logoColor=white"/>
+<img src="https://img.shields.io/badge/Event-Driven_Architecture-00C0FF?style=for-the-badge&logo=architecture&logoColor=white"/>
+<img src="https://img.shields.io/badge/CQRS-FF5733?style=for-the-badge&logo=architecture&logoColor=white"/>
+
 <!-- Monitoring & Observability -->
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Splunk-5DC0D0?style=for-the-badge&logo=splunk&logoColor=black"/>
+
+
+<!-- Cloud / Infra Enhancements -->
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/EKS-1B4F72?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/ECS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/VPC-0078D4?style=for-the-badge&logo=aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-29ABE2?style=for-the-badge&logo=network&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Secrets_Manager-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+<!-- Version Control -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitFlow-0E76A8?style=for-the-badge&logo=git&logoColor=white"/>
+
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Memcached-2E8B57?style=for-the-badge&logo=memcached&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 
 </p>
