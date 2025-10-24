@@ -146,11 +146,13 @@ I love designing scalable microservices, automating infrastructure, and making s
 
  💼 Work Experience
 
-**🔸 Accenture — Associate Software Engineer (Feb 2024 – Present)**  
-- Maintained ERP systems for 2500+ users, tuned performance and reduced latency  
-- Automated workflows via Bash & cron — saving 40% manual time  
-- Supported UAT & production releases, handled incidents via ServiceNow  
-- Awarded 🎖️ *ACE Award* for improving system uptime and incident resolution  
+**🔸 Accenture Associate Software Engineer (Feb 2024 – Present)**  
+
+- Developed ERP components using **Python, JavaScript, and AWS RDS**, supporting 2,500+ active users with 300+ concurrent sessions. Automated on-prem Unix workflows using **Bash**, and resolved application incidents via **ServiceNow** and **Splunk**, maintaining **>99.5% uptime** and improving system reliability.  
+- Engineered and deployed a secure, internal **Generative AI knowledge retrieval application**, integrating **LLM APIs** with proprietary organizational data for contextually relevant code generation, summarization, and more — significantly enhancing internal team productivity.  
+- Led **CI/CD pipelines** and managed deployments across UAT and production using **GitHub, CodePipeline, Terraform, CloudFormation, and Kubernetes**, ensuring zero-downtime releases, version control, rollback safety, and consistent staging-to-production workflows.  
+- Orchestrated a full-scale migration of **legacy on-prem databases to AWS RDS and DynamoDB**, leveraging **SQS** for decoupled message queuing, **Lambda** for automated processing, and **AWS Glue** for ETL pipelines. Ensured **100% data integrity**, minimized downtime, and streamlined monitoring for proactive failure detection, delivering a robust, scalable, and fully automated migration workflow.  
+- Awarded **ACE Award** for resolving high-impact production issues and improving overall system uptime.
 
 ---
 
