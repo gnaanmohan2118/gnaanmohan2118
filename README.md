@@ -102,7 +102,6 @@ I love designing scalable microservices, automating infrastructure, and making s
 <img src="https://img.shields.io/badge/ECS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/VPC-0078D4?style=for-the-badge&logo=aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Networking-29ABE2?style=for-the-badge&logo=network&logoColor=white"/>
-<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Secrets_Manager-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 <!-- Version Control -->
