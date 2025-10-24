@@ -146,7 +146,7 @@ I love designing scalable microservices, automating infrastructure, and making s
 
  💼 Work Experience
 
-**🔸 Accenture Associate Software Engineer (Feb 2024 – Present)**  
+**🔸SDE@Accenture (Feb 2024 – Present)**  
 
 - Developed ERP components using **Python, JavaScript, and AWS RDS**, supporting 2,500+ active users with 300+ concurrent sessions. Automated on-prem Unix workflows using **Bash**, and resolved application incidents via **ServiceNow** and **Splunk**, maintaining **>99.5% uptime** and improving system reliability.  
 - Engineered and deployed a secure, internal **Generative AI knowledge retrieval application**, integrating **LLM APIs** with proprietary organizational data for contextually relevant code generation, summarization, and more — significantly enhancing internal team productivity.  
