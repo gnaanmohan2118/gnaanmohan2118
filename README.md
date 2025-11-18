@@ -51,7 +51,6 @@ I love designing scalable microservices, automating infrastructure, and making s
 
 <!-- AI / LLM -->
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/GPT-3.5-FF9900?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-2EC866?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-FF5722?style=for-the-badge&logo=ai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pinecone-1A73E8?style=for-the-badge&logo=pinecone&logoColor=white"/>
